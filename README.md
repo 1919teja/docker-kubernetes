@@ -3,7 +3,7 @@
 
 A simple node js visit counter  application 
 
-clone the repo  and run 
+clone the repo  and run below command from root of the folder 
 
 1. docker-compose up 
 
